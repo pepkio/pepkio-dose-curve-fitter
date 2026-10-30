@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio dose-curve-fitter."""
 
 from .client import PepkioClient

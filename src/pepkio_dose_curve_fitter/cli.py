@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-dose-curve-fitter."""
 
 from __future__ import annotations
