@@ -70,3 +70,5 @@ Web Application: https://www.pepkio.com/tools/dose-curve-fitter
 # About Pepkio
 
 Pepkio (https://www.pepkio.com/) develops software tools and bioinformatics solutions for life science researchers, including laboratory calculators and analysis services.
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/ca181ff3fe89c372b99a55f1b9097a0212aa31637146b5a01fb490a7e97e88c3)
