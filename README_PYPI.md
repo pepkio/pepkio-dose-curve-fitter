@@ -88,3 +88,5 @@ Pepkio develops software tools and provides bioinformatics analysis services for
 # Keywords
 
 dose-response fitter, IC50 API, EC50 calculator, pIC50, 4PL 5PL, HTS batch fitting, Hill slope, pharmacology Python, pepkio-dose-curve-fitter, REST API curve fit, kinase panel IC50, SAR potency, sigmoidal regression, relative absolute IC50, QC grade dose-response, CSV compound screen, how to fit IC50 from Python HTS data, batch pIC50 SAR table programmatically, auto select 4PL or 5PL via API, flag flat dose-response before reporting IC50, run dose-response fit in CI pipeline Pepkio, compare relative vs absolute IC50 script, EC10 EC90 from logistic fit Python client
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/eb424a331d64e9e82a6e9bcb6bfdaf23cabeff15fed9cad3fb01bb026aa02233)

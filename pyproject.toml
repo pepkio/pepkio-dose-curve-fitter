@@ -1,6 +1,6 @@
 [project]
 name = "pepkio-dose-curve-fitter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python client for dose-response curve fitting via the Pepkio API"
 readme = "README_PYPI.md"
 requires-python = ">=3.11"
